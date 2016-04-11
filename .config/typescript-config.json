@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "sourceMap": true
+    },
+    "exclude": [
+        "bower_components",
+        "jspm_packages",
+        "node_modules"
+    ]
+}
